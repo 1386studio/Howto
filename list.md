@@ -17,3 +17,5 @@
 17. https://www.digitalocean.com/community/tutorials/how-to-set-up-a-samba-share-for-a-small-organization-on-ubuntu-16-04
 18. https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1604
 19. https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-16-04
+20. https://techlog360.com/basic-ubuntu-commands-terminal-shortcuts-linux-beginner/
+21. http://milq.github.io/useful-terminal-commands-ubuntu-debian/
